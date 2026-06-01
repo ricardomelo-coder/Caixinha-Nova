@@ -1,0 +1,6 @@
+{
+  "name": "Caixinha Pro",
+  "description": "Sistema de controle interno de caixa para 6 contas financeiras.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
